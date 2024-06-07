@@ -1,11 +1,11 @@
 # Ui-Fry Landing Page
 This landing page is a responsive interface designed for a mobile application. It was meticulously crafted using a blend of HTML, CSS, and JavaScript. The design seamlessly integrates aesthetics and functionality, ensuring a visually captivating and user-friendly experience across various devices, including desktops and mobiles.
 
-# Design Reference
+## Design Reference
 * Figma Link: Figma Link(https://www.figma.com/community/file/1145991068621514311)
 * Figma Dev Mode Link: Figma Dev Mode Link(https://www.figma.com/design/dvc71PcUEYRKrtnZOapRtI/App-Landing-Page-Finance-Bank-Money-(Community)?m=dev&node-id=0-1&t=uyErxTIHgm8nS2dC-1)
 
-# Launch Steps
+## Launch Steps
 1. Ensure you have Visual Studio Code or any text editor of your choice installed on your system.
 2. Clone this repository to your local machine using `git clone https://github.com/yourusername/uiFry.git`.
 3. Navigate to the project directory using the command line.
@@ -23,4 +23,3 @@ Now you can explore the responsive landing page for the mobile application and i
 * In CSS, i have flex-box for layout and media queries for responsiveness
 * I have used DOM for interactivity
 
-    
