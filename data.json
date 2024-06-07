@@ -1,0 +1,50 @@
+{
+    "navbar": {
+      "logo": "assets/images/logo.png",
+      "links": [
+        {"text": "Home", "url": "#"},
+        {"text": "About Us", "url": "#"},
+        {"text": "Pricing", "url": "#"},
+        {"text": "Features", "url": "#"}
+      ]
+    },
+    "head": {
+      "image": "assets/images/mobile-op.png",
+      "heading": "make the best financial decisions",
+      "text": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor."
+    },
+    "features": [
+      {
+        "icon": "fa-circle",
+        "title": "budgeting intervals",
+        "text": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor."
+      },
+      {
+        "icon": "fa-circle",
+        "title": "budgeting intervals",
+        "text": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor."
+      },
+      {
+        "icon": "fa-circle",
+        "title": "budgeting intervals",
+        "text": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor."
+      }
+    ],
+    "advantages": {
+      "heading": "why choose Uifry?",
+      "subheading": "Risus habitant leo egestas mauris diam eget morbi tempus vulputate.",
+      "items": [
+        {
+          "icon": "fa-bell",
+          "title": "clever notifications",
+          "text": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam."
+        }
+      ]
+    },
+    "testimonial": {
+      "text": "the best financial accounting app ever!",
+      "quote": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam.",
+      "author": "nick joans",
+      "avatar": "assets/images/avatar.png"
+    }
+  }
